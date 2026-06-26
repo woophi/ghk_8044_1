@@ -248,25 +248,30 @@ export const bundles = [
     img: ch1,
     title: 'Сезонный пропуск',
     price: 399,
+    id: 1,
   },
   {
     img: ch2,
     title: 'Турнирный допуск',
     price: 699,
+    id: 2,
   },
   {
     img: ch3,
     title: 'Обучение',
     price: 399,
+    id: 3,
   },
   {
     img: ch4,
     title: 'ИИ-Ассистент',
     price: 399,
+    id: 4,
   },
   {
     img: ch5,
     title: 'Альфа-Шахматы',
     price: 'Бесплатно',
+    id: 5,
   },
 ];
